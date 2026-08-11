@@ -6,9 +6,10 @@ const daftarProduk = [
 'https://jamesboogie.com/_next/image?url=https:%2F%2Fvps.jamesboogie.com%2Fwp-content%2Fuploads%2F2026%2F03%2FTest-Ventile2-1-of-1-scaled.jpg&w=3840&q=75' },
   { id: 2, nama: 'Caps James Boogie', harga: 350000, gambar: 
 'https://tse3.mm.bing.net/th/id/OIP.2InhwRieaLNZFpzTfwqhrwHaJQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3' },
-  { id: 3, nama: 'SlingBag LadsClub', harga: 120000, gambar: 
-'https://down-id.img.susercontent.com/file/id-11134207-822wq-mm8nbwxjmp6o75' },
+  { id: 3, nama: 'Philipworks BTR', harga: 120000, gambar: 
+'https://th.bing.com/th/id/OIP.k0p87Vb3C5uAIE9boFY0OwHaKX?w=194&h=271&c=7&r=0&o=7&pid=1.7&rm=3' },
 ]
+
 </script>
  
 <template>

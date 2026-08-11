@@ -1,6 +1,20 @@
-<template>
-  <main>
-    <h1>Tentang Kami</h1>
+
+<template> 
+  <main> 
+     <h1>Tentang Kami</h1>
     <p>Onlineshop ini dikelola Ryan Bimo</p>
-  </main>
-</template>
+
+    <video controls width="480" muted loop> 
+      <source src="/video/promo-toko.mp4" type="video/mp4" /> 
+      Browser kamu tidak mendukung pemutaran video. 
+    </video> 
+  </main> 
+</template> 
+  
+<style scoped> 
+video { 
+  margin-top: 16px; 
+  border-radius: 10px; 
+  display: block; 
+} 
+</style>

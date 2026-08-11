@@ -8,4 +8,4 @@ const tahun = new Date().getFullYear()
     <small>&copy; {{ tahun }} RyanBimo — Onlineshop 
 Sekolah</small>
   </footer>
-</template>
+</template>a
