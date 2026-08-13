@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="kotak">
-            <h1>Belanja alat gaul mu dengan mudah dan terpercaya</h1>
+            <h1>belanja pakaian biar jadi anak bandung banget</h1>
         <p>dari mulai bomber / jaket ? klik di bawah</p>
         <RouterLink to="/product">
             <button class="button">Belanja Sekarang</button>
@@ -33,12 +33,13 @@
 }
 
 .kotak {
-  width: 600px;
-  height: 200px;
-  background-color: rgb(111, 142, 238);
-  border-radius: 15px;
+  width: 100%;
+  height: 250px;
+  background: linear-gradient(to bottom, #4e7eb4, #3b588d);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
   overflow: hidden;
+  margin: 15px;
+  padding: 10px;
   text-align: center;
 }
 .button {

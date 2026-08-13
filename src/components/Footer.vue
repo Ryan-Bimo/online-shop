@@ -6,6 +6,6 @@ const tahun = new Date().getFullYear()
   <hr />
   <footer>
     <small>&copy; {{ tahun }} RyanBimo — Onlineshop 
-Sekolah</small>
+Milik Bimo</small>
   </footer>
 </template>a
